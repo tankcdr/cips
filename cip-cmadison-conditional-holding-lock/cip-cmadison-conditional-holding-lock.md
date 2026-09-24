@@ -9,8 +9,8 @@
   Type: Standards Track
   Created: 2026-09-10
   License: CC0-1.0
-  Requires: CIP-0056, CIP-0112
   Post-History:
+  Requires: CIP-0056, CIP-0112
 </pre>
 
 ## Abstract
